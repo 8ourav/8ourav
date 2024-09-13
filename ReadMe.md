@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning UI/UX and Frontend Development<br><br>👨🏻‍🎓 GRAPHIC HEAD @ CESA, Indus University<br><br>🤝 I’m looking for help with UX design and Backend development.<br><br>📫 How to reach me 10.souravv@gmail.com or LinkedIn - sourav10<br><br>👨‍💻 All of my projects are available at https://github.com/8ourav
+🌱 I’m currently learning UI/UX and Frontend Development<br><br>👨🏻‍🎓 GRAPHICS HEAD @ CESA, Indus University<br><br>🤝 I’m looking for help with UX design and Data Science.<br><br>📫 How to reach me 10.souravv@gmail.com or LinkedIn - sourav10<br><br>👨‍💻 All of my projects are available at https://github.com/8ourav
 
 
 ## 🌐 Socials:
